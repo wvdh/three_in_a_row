@@ -76,8 +76,3 @@ Correct!
 You've gotten 3 correct in a row. 
 
 Congratulations! You mastered addition.
-
-As a side note, one of the earliest programs Mehran wrote (with his friend Matthew) when he was first learning how to program was very similar to Khansole Academy. It was called “M&M’s Math Puzzles.” It was written in a language named BASIC on a computer that had 4K of memory (that’s 4 Kilobytes) and used cassette tapes (the same kind used for music in the 1970’s) to store information. Yeah, Mehran is old.
-
-Beyond addition?
-There is no limit to how awesome you can make your learning software. Can you get it to teach? Can you get it to offer problems other than addition? Get creative! Have fun!
